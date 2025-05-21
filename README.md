@@ -16,3 +16,23 @@ This project is part of MoonLight Energy Solutions' solar data initiative. The g
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Folder Structure
+solar-challenge-week1/
+├── app/                  # Streamlit dashboard (main.py, utils.py)
+
+├── data/                 # Cleaned CSVs (ignored in git)
+
+├── notebooks/            # Jupyter notebooks (EDA, cleaning, comparison)
+
+├── scripts/              # Project scripts and helpers
+
+├── requirements.txt      # Python dependencies
+
+├── README.md             # Project overview and setup
+
+
+## Author
+Bethlehem Fekadu (Bettyfek) 
+
+Kifiya AIM Solar Challenge - Week 1
